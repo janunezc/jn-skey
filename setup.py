@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='jn-skey',  # The name of your package
-    version='1.0.0',  # The initial release version
+    version='1.0.1',  # The initial release version
     packages=find_packages(),  # Automatically find packages in your directory
     entry_points={
         'console_scripts': [
@@ -12,8 +12,8 @@ setup(
     install_requires=[
         'pynput',  # Add any dependencies your package needs
     ],
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Costa Rica Makers',
+    author_email='webmaster@costaricamakers.com',
     description='A tool to insert the current datetime using a keyboard shortcut.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
