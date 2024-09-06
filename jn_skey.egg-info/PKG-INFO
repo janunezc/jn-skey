@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: jn-skey
+Version: 1.0.0
+Summary: A tool to insert the current datetime using a keyboard shortcut.
+Home-page: https://github.com/yourusername/jn-skey
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# jn-skey
+
+`jn-skey` is a Python tool that types the current datetime in the format `yyyy-mm-dd hh:mm:ss` when the `CTRL+D` combination is pressed, regardless of the application in focus.
+
+I.e.: 2024-08-23 18:02:30
+
+## Installation
+
+You can install `jn-skey` via pip:
+
+```bash
+pip install jn-skey
