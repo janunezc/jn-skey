@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: jn-skey
-Version: 1.0.1
+Version: 1.0.7
 Summary: A tool to insert the current datetime using a keyboard shortcut.
-Home-page: https://github.com/yourusername/jn-skey
+Home-page: https://github.com/janunezc/jn-skey
 Author: Costa Rica Makers
 Author-email: webmaster@costaricamakers.com
 Classifier: Programming Language :: Python :: 3
