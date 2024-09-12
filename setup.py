@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='jn-skey',  # The name of your package
-    version='1.0.1',  # The initial release version
+    version='1.0.7',  # Added slight delay
     packages=find_packages(),  # Automatically find packages in your directory
     entry_points={
         'console_scripts': [
@@ -17,7 +17,7 @@ setup(
     description='A tool to insert the current datetime using a keyboard shortcut.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/jn-skey',  # Replace with your repository URL
+    url='https://github.com/janunezc/jn-skey',  # Replace with your repository URL
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
